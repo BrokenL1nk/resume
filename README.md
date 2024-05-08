@@ -1,4 +1,4 @@
-# resume
+# résumé
 
 A barebones personal résumé page, written in pure HTML. 
 
